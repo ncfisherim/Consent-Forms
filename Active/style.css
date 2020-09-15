@@ -1,0 +1,22 @@
+#page-border {
+    margin: 1in;
+}
+
+#title { 
+    font-style: italic;
+}
+
+.header {
+    font-weight: bold;
+    color: rgb(0, 112, 192);
+}
+
+.text-block {
+    white-space: pre-line;
+}
+
+* {
+    margin: 0in;
+    font-size: 12px;
+    font-family: "Times New Roman", Times, serif;
+}

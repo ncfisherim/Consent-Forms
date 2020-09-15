@@ -1,5 +1,12 @@
 #page-border {
-    margin: 1in;
+    margin: auto;
+    width: 8.5in;
+    margin-top: 1in;
+    margin-bottom: 1in;
+    padding: 0.5in;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
 }
 
 #title { 
@@ -15,8 +22,15 @@
     white-space: pre-line;
 }
 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
 * {
-    margin: 0in;
+
     font-size: 12px;
     font-family: "Times New Roman", Times, serif;
 }

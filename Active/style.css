@@ -1,4 +1,4 @@
-#page-border {
+#consent-form {
     margin: auto;
     width: 8.5in;
     margin-top: 1in;
@@ -13,22 +13,23 @@
     font-family: "Times New Roman", Times, serif;
 }
 
-#title { 
+#consent-title { 
     font-style: italic;
 }
 
-.header {
-    font-weight: bold;
-    color: rgb(0, 112, 192);
-}
-
-.text-block {
-    white-space: pre-line;
-}
-
-img {
+#consent-logo {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 40%;
 }
+
+.consent-header {
+    font-weight: bold;
+    color: rgb(0, 112, 192);
+}
+
+.consent-text-block {
+    white-space: pre-line;
+}
+
